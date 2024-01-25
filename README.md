@@ -36,6 +36,3 @@ What's next?
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
-
-
