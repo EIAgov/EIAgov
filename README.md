@@ -19,6 +19,17 @@ All EIA projects will be released under Apache 2.0 unless otherwise specifically
 ## How To Contribute
 Federal employees, fellow agencies and members of the public are encouraged to contribute to the success of EIA by sharing their comments on EIA projects to the email address within each respositories README.md.  Your feedback, questions and ideas are appreciated!!
 
+## The National Energy Modeling System
+The National Energy Modeling System (NEMS) is a long-term energy-economy modeling system of U.S. energy markets. The model is used to project production, imports, exports, conversion, consumption, and prices of energy, subject to user-defined assumptions. The assumptions encompass macroeconomic and financial factors, world energy markets, resource availability and costs, behavioral and technological choice criteria, technology characteristics, and demographics. NEMS produces a general equilibrium solution for energy supply and demand in the U.S. energy markets on an annual basis. 
+
+EIA’s Office of Energy Analysis develops and maintains NEMS to support the Annual Energy Outlook (AEO). EIA analysts perform policy analyses requested by decisionmakers in the White House; the U.S. Congress; offices within the U.S. Department of Energy (DOE), including program offices; and other government agencies. Users outside of EIA use NEMS for a variety of purposes.
+
+The [**AEO**](https://www.eia.gov/outlooks/aeo/) contains results from many EIA analysis products that rely on NEMs.
+
+[**NEMS Documentation**](https://www.eia.gov/outlooks/aeo/nems/documentation/) has more details about each module. [**Assumptions**](https://www.eia.gov/outlooks/aeo/assumptions/) contains separate reports about the latest assumptions for each module. The [**Case Descriptions**](https://www.eia.gov/outlooks/aeo/assumptions/case_descriptions.php) page explains the cases preconfigured in the repository.
+
+You can direct technical questions about the NEMS model to <a href="mailto:NextGenerationModel@eia.gov">NEMSModel</a> 
+
 ## Project BlueSky
 Project BlueSky is a new EIA initiative to develop our next generation energy systems model, which will eventually be used to produce the Annual Energy Outlook (AEO) and International Energy Outlook (IEO). The new model will be designed to address the complexity and interconnectivity of the modern world and the uncertainty associated with markets, technologies, and international trade.
 
