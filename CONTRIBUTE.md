@@ -2,7 +2,7 @@
 
 Welcome to U.S. Energy Information Administration’s (EIA) Contributing Guide.  Thank you for investing your time to our projects! Please read our Code of Conduct which we hold very important to creating a positive environment for contributors.  
 
-To get an overview of and individual project, please see the README.MD file for an individual respository.
+To get an overview of and individual project, please see the README.MD file for an individual repository.
 
 ### Do you have an issue/Did you find a bug?
 Please direct issues or bugs to <EIA-Project-Name@eia.gov>. The <EIA Project Name> Team will communicate all issues or bugs (status/resolution) via an ISSUES file within each respository.
