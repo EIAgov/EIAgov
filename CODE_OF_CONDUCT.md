@@ -28,10 +28,10 @@ EIA is responsible for clarifying the standards of acceptable behavior and are e
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at <EIA - Project Name@eia.gov>. The project team will review and investigate all complaints and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately in each repository.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at <EIA-Project Name@eia.gov>. The project team will review and investigate all complaints and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately in each repository.
 
 ## Attribution
-This Code of Conduct is adapted from the [**Contributor Covenant V1.4**](https://www.contributor-covenant.org/version/1/4/code-of-conduct/)
+This Code of Conduct is adapted from the [**Contributor Covenant v1.4**](https://www.contributor-covenant.org/version/1/4/code-of-conduct/)
 
 
 
