@@ -1,15 +1,3 @@
-### Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU2MHZiN2FkNzNzOG45amNwMWdwbWFvZ25lbDY5Y2J4YWswdWlhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKkqqRlfzajljKVV5p/giphy.gif" width="29px"> 
-![header](https://capsule-render.vercel.app/api?type=slice&color=1099d3&height=150&section=header&text=U.S.%20Energy%20Information%20Administration&fontSize=45)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0196d8&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+The+EIA+Profile!;www.eia.gov)](https://git.io/typing-svg)
-
-<div align="center" style="margin-bottom: 0">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Joseph_DeCarolis%2C_EIA_Administrator_2.png/330px-Joseph_DeCarolis%2C_EIA_Administrator_2.png" height="120px">
-</div>  
-<h4 align="center">"Given the complex and evolving energy challenges we face as a nation, EIA data and non-partisan analysis have never been more important." - EIA Administrator Joseph DeCarolis -</h4>
-</div>  
-
-<br>
-
 ## EIA Open Source Projects
 EIA recognizes that reproducibility and open source practices in modeling development are closely interrelated. It is increasingly expected that EIA publications and releases are accompanied by the analysis code and raw data used to create them. The intent of the repositories shared is to improve the impact of EIA's work while improving and enhancing our data user's abilities to assess EIA projects.
 
