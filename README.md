@@ -1,37 +1,26 @@
-## EIA Open Source Projects
-EIA recognizes that reproducibility and open source practices in modeling development are closely interrelated. It is increasingly expected that EIA publications and releases are accompanied by the analysis code and raw data used to create them. The intent of the repositories shared is to improve the impact of EIA's work while improving and enhancing our data user's abilities to assess EIA projects.
+The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment.
+
+At EIA, we’re always striving to make our products more transparent and accessible. Releasing our code under an open-source license helps us meet this priority. Over time, we plan to add code repositories associated with select EIA products. Our hope is that releasing code engenders trust, fosters understanding, and allows stakeholders to make better use of our products. 
+
 
 ## License
-All EIA projects will be released under Apache 2.0 unless otherwise specifically noted within the project respository.  The [**Apache 2.0**](https://www.apache.org/licenses/LICENSE-2.0) software license gives users permission to reuse code for nearly any purpose, including using the code as part of proprietary software. As with other open source licenses, the Apache license governs how end-users can utilize the software in their own projects. This license is a widely-used open source license, and like other permissive licenses, it continues to grow in popularity because it encourages the use of open source software within proprietary projects.
+All EIA projects will be released under Apache 2.0, unless otherwise specifically noted within the project respository. [**Apache 2.0**](https://www.apache.org/licenses/LICENSE-2.0) is a permissive, well-recognized, and popular license, that gives users permission to reuse code for nearly any purpose, including using the code as part of proprietary software. 
 
 ## How To Contribute
-Federal employees, fellow agencies and members of the public are encouraged to contribute to the success of EIA by sharing their comments on EIA projects to the email address within each respositories README.md.  Your feedback, questions and ideas are appreciated!!
+Federal employees, fellow agencies and members of the public are encouraged to contribute to the success of EIA by sharing feedback and suggestions. Each code repository will have specific guidance on how to engage.
 
-## The National Energy Modeling System
-The National Energy Modeling System (NEMS) is a long-term energy-economy modeling system of U.S. energy markets. The model is used to project production, imports, exports, conversion, consumption, and prices of energy, subject to user-defined assumptions. The assumptions encompass macroeconomic and financial factors, world energy markets, resource availability and costs, behavioral and technological choice criteria, technology characteristics, and demographics. NEMS produces a general equilibrium solution for energy supply and demand in the U.S. energy markets on an annual basis. 
+## Code Of Conduct
+If you wish to engage with us, please review our Code Of Conduct.
 
-EIA’s Office of Energy Analysis develops and maintains NEMS to support the Annual Energy Outlook (AEO). EIA analysts perform policy analyses requested by decisionmakers in the White House; the U.S. Congress; offices within the U.S. Department of Energy (DOE), including program offices; and other government agencies. Users outside of EIA use NEMS for a variety of purposes.
+## Governance
+EIA wants to ensure a consistent experience for stakeholders who wish to provide feedback. EIA will make every effort to accept worthwhile and well-documented contributions. Requests must follow EIA guidance; please see our Contributing.md for more details on making contributions. The most helpful contributions fix bugs or add features (as opposed to stylistic, refactoring, or "cleanup" changes). Your change should include tests and documentation, keeping in mind backward-compatibility, portability, and the impact on memory usage and performance. Where relevant, contributions should include pertinent documentation updates.
 
-The [**AEO**](https://www.eia.gov/outlooks/aeo/) contains results from many EIA analysis products that rely on NEMs.
+The contribution process includes the follow steps:
+  1.	An external contributor provides feedback directly via the GitHub repository or appropriate email list, per the directions in the EIA repository.
+  2.	EIA staff discuss the feedback and formulate a response. 
+  3.	EIA will provide written feedback to the contributor. The process and reasons used to reach a decision will be described in each contribution resolution. The goal is to communicate a final decision within 30 days of submission, but larger contributions may require a design review and therefore require longer review periods.
 
-[**NEMS Documentation**](https://www.eia.gov/outlooks/aeo/nems/documentation/) has more details about each module. [**Assumptions**](https://www.eia.gov/outlooks/aeo/assumptions/) contains separate reports about the latest assumptions for each module. The [**Case Descriptions**](https://www.eia.gov/outlooks/aeo/assumptions/case_descriptions.php) page explains the cases preconfigured in the repository.
-
-You can direct technical questions about the NEMS model to <a href="mailto:NextGenerationModel@eia.gov">NEMSModel</a> 
-
-## Project BlueSky
-Project BlueSky is a new EIA initiative to develop our next generation energy systems model, which will eventually be used to produce the Annual Energy Outlook (AEO) and International Energy Outlook (IEO). The new model will be designed to address the complexity and interconnectivity of the modern world and the uncertainty associated with markets, technologies, and international trade.
-
-Because the energy system is moving at a faster rate than available data, the next generation model will account for future uncertainty in our long-term projections. It will also be nimble so that it can be updated quickly and flexible to handle rapid changes and emerging issues. Our next generation model will be made open source and accessible to the public. By releasing the model with an open-source license, our modeling work will be more transparent and collaborative.
-
-Project BlueSky is unrelated to the updates that are currently underway in the National Energy Modeling System (NEMS), which are necessary for the AEO2025. Project BlueSky is a parallel long-term effort.
-
-What's next?
-- We plan to engage a diverse group of stakeholders via focus groups, webinars, and individual conversations to socialize Project BlueSky goals and attain input and feedback as the initial stage of this initiative gets underway.
-- In 2024, we will build a basic prototype with the goal of releasing it publicly via GitHub with an open-source license by December 2024.
-- Based on stakeholder feedback on the prototype, we will undertake a full-scale model development effort beginning in 2025.
-
-<a href="mailto:NextGenerationModel@eia.gov">Email</a> the BlueSky Team with any questions and/or feedback.
-
+We strongly encourage individuals working on model enhancements that would like to contribute back to the EIA repository to send an email to the appropriate project team before beginning work.
 
 
 
