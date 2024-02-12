@@ -10,7 +10,7 @@ All EIA projects will be released under Apache 2.0, unless otherwise specificall
 Federal employees, fellow agencies and members of the public are encouraged to contribute to the success of EIA by sharing feedback and suggestions. Each code repository will have specific guidance on how to engage.
 
 ## Code Of Conduct
-If you wish to engage with us, please review our Code Of Conduct.
+If you wish to engage with us, please review our [**Code Of Conduct**](https://github.com/EIAgov/EIAgov/blob/main/CODE_OF_CONDUCT.md).
 
 ## Governance
 EIA wants to ensure a consistent experience for stakeholders who wish to provide feedback. EIA will make every effort to accept worthwhile and well-documented contributions. Requests must follow EIA guidance; please see our Contributing.md for more details on making contributions. The most helpful contributions fix bugs or add features (as opposed to stylistic, refactoring, or "cleanup" changes). Your change should include tests and documentation, keeping in mind backward-compatibility, portability, and the impact on memory usage and performance. Where relevant, contributions should include pertinent documentation updates.
