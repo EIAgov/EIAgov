@@ -3,7 +3,7 @@
 
 Welcome to U.S. Energy Information Administration’s (EIA) Contributing Guide.  Thank you for investing your time to our projects! Please read our Code of Conduct which we hold very important to creating a positive environment for contributors.  
 
-To get an overview of and individual project, please see the README.MD file for an individual repository.
+To get an overview of an individual project, please see the README.MD file for an individual repository.
 
 EIA will provide written feedback to a contributor for any issue/bug/feature/change expressed. The process and reasons used to reach a decision will be described in each contribution resolution. The goal is to communicate a final decision within 30 days of submission, but larger contributions may require a design review and therefore require longer review periods.
 
