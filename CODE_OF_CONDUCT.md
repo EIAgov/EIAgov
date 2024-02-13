@@ -1,4 +1,5 @@
 *This conduct file was created on 2024-01-25*
+![BANNER](https://github.com/EIAgov/EIAgov/assets/10519522/e9c95d21-7337-4ab3-afa5-cbc4157c055d)
 
 This Code of Conduct applies to all projects developed and shared by the U.S. Energy Information Administration (EIA). 
 
