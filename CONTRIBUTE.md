@@ -5,6 +5,8 @@ Welcome to U.S. Energy Information Administration’s (EIA) Contributing Guide. 
 
 To get an overview of and individual project, please see the README.MD file for an individual repository.
 
+EIA will provide written feedback to a contributor for any issue/bug/feature/change expressed. The process and reasons used to reach a decision will be described in each contribution resolution. The goal is to communicate a final decision within 30 days of submission, but larger contributions may require a design review and therefore require longer review periods.
+
 ## Do you have an issue?  Did you find a bug?
 Please direct issues or bugs to <EIA-Project-Name@eia.gov>. The <EIA Project Name> Team will communicate all issues or bugs (status/resolution) via an ISSUES file within each respository.
 
