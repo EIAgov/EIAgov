@@ -1,4 +1,5 @@
 *This conduct file was created on 2024-01-25*
+![BANNER](https://github.com/EIAgov/EIAgov/assets/10519522/939de250-ef51-4009-9784-af52d0f13a7d)
 
 Welcome to U.S. Energy Information Administration’s (EIA) Contributing Guide.  Thank you for investing your time to our projects! Please read our Code of Conduct which we hold very important to creating a positive environment for contributors.  
 
