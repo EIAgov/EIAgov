@@ -5,6 +5,8 @@ Welcome to U.S. Energy Information Administration’s (EIA) Contributing Guide. 
 
 To get an overview of an individual project, please see the README.MD file for an individual repository.  EIA's profile README.md can be found [here](https://github.com/EIAgov/EIAgov/blob/main/README.md).
 
+The email address for each Project Team can be found in the README.md and/or CONTRIBUTE.md for each repository.
+
 EIA will provide written feedback to a contributor for any issue/bug/feature/change expressed. The process and reasons used to reach a decision will be described in each contribution resolution. The goal is to communicate a final decision within 30 days of submission, but larger contributions may require a design review and therefore require longer review periods.
 
 ## Do you have an issue?  Did you find a bug?
