@@ -1,8 +1,4 @@
-![BANNER](https://github.com/EIAgov/EIAgov/assets/10519522/374ed595-17a8-4235-b2ec-71711512b466)
-
 ![githubimage_v2](https://github.com/EIAgov/EIAgov/assets/10519522/43915133-d10a-450d-ba23-4663a47df1d3)
-
-![githubimage_centered](https://github.com/EIAgov/EIAgov/assets/10519522/6eb9ba3f-abd6-4d84-87f9-c9156b7a6af1)
 
 The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment.
 
