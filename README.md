@@ -15,12 +15,9 @@ Federal employees, fellow agencies and members of the public are encouraged to c
 If you wish to engage with us, please review our [**Code Of Conduct**](https://github.com/EIAgov/EIAgov/blob/main/CODE_OF_CONDUCT.md).
 
 ## Governance
-EIA wants to ensure a consistent experience for stakeholders who wish to provide feedback. EIA will make every effort to accept worthwhile and well-documented contributions. Requests must follow EIA guidance; please see our Contributing.md for more details on making contributions. The most helpful contributions fix bugs or add features (as opposed to stylistic, refactoring, or "cleanup" changes). Your change should include tests and documentation, keeping in mind backward-compatibility, portability, and the impact on memory usage and performance. Where relevant, contributions should include pertinent documentation updates.
+EIA wants to ensure a consistent experience for stakeholders who wish to provide feedback. Requests must follow EIA’s contributing guidelines; please see our Contributing.md guidance or the file within each repo for more details on making contributions.
 
-The contribution process includes the follow steps:
-  1.	An external contributor provides feedback directly via the GitHub repository or appropriate email list, per the directions in the EIA repository.
-  2.	EIA staff discuss the feedback and formulate a response. 
-  3.	EIA will provide written feedback to the contributor. The process and reasons used to reach a decision will be described in each contribution resolution. The goal is to communicate a final decision within 30 days of submission, but larger contributions may require a design review and therefore require longer review periods.
+EIA will review the feedback and formulate a response as appropriate. In cases that warrant a response, EIA will provide written feedback to the contributor. The process and reasons used to reach a decision will be described in each contribution resolution. The goal is to communicate feedback within a reasonable timeframe (e.g., 30 days), however, larger contributions may require a more thorough review and therefore require longer review periods.
 
 We strongly encourage individuals working on model enhancements that would like to contribute back to the EIA repository to send an email to the appropriate project team before beginning work.
 
