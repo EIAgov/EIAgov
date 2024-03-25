@@ -10,15 +10,15 @@ The email address for each Project Team can be found in the README.md and/or CON
 EIA will provide written feedback to a contributor for any issue/bug/feature/change expressed. The process and reasons used to reach a decision will be described in each contribution resolution. The goal is to communicate a final decision within 30 days of submission, but larger contributions may require a design review and therefore require longer review periods.
 
 ## Do you have an issue?  Did you find a bug?
-Please direct issues or bugs to <EIA-RepoName-GITHUB@eia.gov>. The <EIA Project Name> Team will communicate all issues or bugs (status/resolution) via an ISSUES file within each respository.
+Please direct issues or bugs to EIA-RepoName-GITHUB@eia.gov. The <EIA Project Name> Team will communicate all issues or bugs (status/resolution) via an ISSUES file within each respository.
 
-If you are unable to find an open issue addressing the problem or bug, please open a new one by emailing <EIA-RepoName-GITHUB@eia.gov>. Be sure to include a title and clear description, with as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
+If you are unable to find an open issue addressing the problem or bug, please open a new one by emailing EIA-RepoName-GITHUB@eia.gov. Be sure to include a title and clear description, with as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
 
 ## Do you intend to propose a new feature or change an existing one?
-Suggest your change by sending an email to <EIA-RepoName-GITHUB@eia.gov>.
+Suggest your change by sending an email to EIA-RepoName-GITHUB@eia.gov.
 
 ## Do you have questions/concerns about the source code?
-Ask any question or express any concerns about a project to <EIA Project Name> via <EIA-RepoName-GITHUB@eia.gov>.
+Ask any question or express any concerns about a project to <EIA Project Name> via EIA-RepoName-GITHUB@eia.gov.
 
 
 
