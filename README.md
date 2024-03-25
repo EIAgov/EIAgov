@@ -15,7 +15,7 @@ Federal employees, fellow agencies and members of the public are encouraged to c
 If you wish to engage with us, please review our [**Code Of Conduct**](https://github.com/EIAgov/EIAgov/blob/main/CODE_OF_CONDUCT.md).
 
 ## Governance
-EIA wants to ensure a consistent experience for stakeholders who wish to provide feedback. Requests must follow EIA’s contributing guidelines; please see our [**Contribute**](https://github.com/EIAgov/EIAgov/commit/f3112954691e663f3ecc0ff329658f557bb372cc guidance) or the file within each repo for more details on making contributions.
+EIA wants to ensure a consistent experience for stakeholders who wish to provide feedback. Requests must follow EIA’s contributing guidelines; please see our [**Contribute**](https://github.com/EIAgov/EIAgov/commit/f3112954691e663f3ecc0ff329658f557bb372cc) guidance or the file within each repo for more details on making contributions.
 
 EIA will review the feedback and formulate a response as appropriate. In cases that warrant a response, EIA will provide written feedback to the contributor. The process and reasons used to reach a decision will be described in each contribution resolution. The goal is to communicate feedback within a reasonable timeframe (e.g., 30 days), however, larger contributions may require a more thorough review and therefore require longer review periods.
 
