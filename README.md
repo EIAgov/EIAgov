@@ -6,13 +6,13 @@ At EIA, we’re always striving to make our products more transparent and access
 
 
 ## License
-All EIA projects will be released under Apache 2.0, unless otherwise specifically noted within the project respository. [**Apache 2.0**](https://www.apache.org/licenses/LICENSE-2.0) is a permissive, well-recognized, and popular license, that gives users permission to reuse code for nearly any purpose, including using the code as part of proprietary software. 
+All EIA projects will be released under Apache 2.0, unless otherwise specifically noted within the project respository. [**Apache 2.0**](https://github.com/EIAgov/EIAgov/blob/main/LICENSE) is a permissive, well-recognized, and popular license, that gives users permission to reuse code for nearly any purpose, including using the code as part of proprietary software. 
 
 ## How To Contribute
 Federal employees, fellow agencies and members of the public are encouraged to contribute to the success of EIA by sharing feedback and suggestions. Each code repository will have specific guidance on how to engage.
 
 ## Governance
-EIA wants to ensure a consistent experience for stakeholders who wish to provide feedback. Requests must follow EIA’s contributing guidelines; please see our [**Contribute**](https://github.com/EIAgov/EIAgov/commit/f3112954691e663f3ecc0ff329658f557bb372cc) guidance or the file within each repo for more details on making contributions.
+EIA wants to ensure a consistent experience for stakeholders who wish to provide feedback. Requests must follow EIA’s contributing guidelines; please see our [**Contribute**](https://github.com/EIAgov/EIAgov/blob/main/CONTRIBUTE.md) guidance or the file within each repo for more details on making contributions.
 
 EIA will review the feedback and formulate a response as appropriate. In cases that warrant a response, EIA will provide written feedback to the contributor. The process and reasons used to reach a decision will be described in each contribution resolution. The goal is to communicate feedback within a reasonable timeframe (e.g., 30 days), however, larger contributions may require a more thorough review and therefore require longer review periods.
 
