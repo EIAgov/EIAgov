@@ -6,7 +6,7 @@ This Code of Conduct applies to all projects developed and shared by the U.S. En
 EIA collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment. EIA also prepares informative energy analyses, monthly short-term forecasts of energy market trends, and long-term U.S. and international energy outlooks. 
  
 ## Our Pledge
-In the interest of fostering an open and welcoming environment, we as maintainers pledge to making participation in our projects and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as maintainers pledge to making participation in our projects and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 Examples of behavior that contributes to creating a positive environment include:
